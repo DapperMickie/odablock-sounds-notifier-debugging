@@ -1,0 +1,10 @@
+{
+    "kick": {
+        "isLive": false,
+        "title": ""
+    },
+    "twitch": {
+        "isLive": false,
+        "title": ""
+    }
+}
